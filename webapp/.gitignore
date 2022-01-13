@@ -1,0 +1,3 @@
+*.pyc
+app/config/activeconfig.py*
+*.DS_Store

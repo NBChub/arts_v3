@@ -1,0 +1,19 @@
+version: '2'
+services:
+  artswebapp:
+    image: "ziemertlab/artswebapp:latest"
+
+#Host:docker ports
+    ports:
+     - "80:5000"
+
+#Shared Folder locations (Result folder ex: /host/results/path:/arts/results)
+    volumes:
+     - /Users/malanjary/artswebtest/results:/arts/results
+     - /Users/malanjary/artswebtest/uploads:/arts/upload
+     - /tmp:/arts/run
+
+  redis:
+    ports:
+     - "6379:6379"
+    image: "redis:alpine"

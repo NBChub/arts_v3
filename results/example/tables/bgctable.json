@@ -1,0 +1,966 @@
+{
+  "data": [
+    [
+      "cluster-18", 
+      "nrps", 
+      "scaffold_1", 
+      "4978726 - 5033814", 
+      "0", 
+      "1", 
+      [
+        [
+          "4371", 
+          "RF0168", 
+          "5007275", 
+          "5008637", 
+          "ResModel", 
+          "", 
+          ""
+        ]
+      ]
+    ], 
+    [
+      "cluster-19", 
+      "terpene", 
+      "scaffold_1", 
+      "5025450 - 5046389", 
+      "0", 
+      "0", 
+      []
+    ], 
+    [
+      "cluster-16", 
+      "butyrolactone", 
+      "scaffold_1", 
+      "4719612 - 4730572", 
+      "0", 
+      "0", 
+      []
+    ], 
+    [
+      "cluster-17", 
+      "t3pks", 
+      "scaffold_1", 
+      "4811592 - 4852699", 
+      "6", 
+      "0", 
+      [
+        [
+          "4229", 
+          "TIGR00499", 
+          4845768, 
+          4847277, 
+          "Core", 
+          "lysS_bact: lysine--tRNA ligase", 
+          "Protein synthesis"
+        ], 
+        [
+          "4221", 
+          "TIGR00416", 
+          4836440, 
+          4837886, 
+          "Core", 
+          "sms: DNA repair protein RadA", 
+          "DNA metabolism"
+        ], 
+        [
+          "4235", 
+          "TIGR00018", 
+          4852500, 
+          4853349, 
+          "Core", 
+          "panC: pantoate--beta-alanine ligase", 
+          "Biosynthesis of cofactors, prosthetic groups, and carriers"
+        ], 
+        [
+          "4234", 
+          "TIGR00223", 
+          4852048, 
+          4852477, 
+          "Core", 
+          "panD: aspartate 1-decarboxylase", 
+          "Biosynthesis of cofactors, prosthetic groups, and carriers"
+        ], 
+        [
+          "4231", 
+          "TIGR00078", 
+          4848277, 
+          4849174, 
+          "Core", 
+          "nadC: nicotinate-nucleotide diphosphorylase (carboxylating)", 
+          "Biosynthesis of cofactors, prosthetic groups, and carriers"
+        ], 
+        [
+          "4212", 
+          "TIGR00151", 
+          4828764, 
+          4829250, 
+          "Core", 
+          "ispF: 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase", 
+          "Biosynthesis of cofactors, prosthetic groups, and carriers"
+        ]
+      ]
+    ], 
+    [
+      "cluster-14", 
+      "t1pks-nrps-arylpolyene", 
+      "scaffold_1", 
+      "3097969 - 3269216", 
+      "0", 
+      "2", 
+      [
+        [
+          "2770", 
+          "RF0174", 
+          "3211651", 
+          "3212479", 
+          "ResModel", 
+          "", 
+          ""
+        ], 
+        [
+          "2727", 
+          "PF01039.17", 
+          "3113279", 
+          "3114719", 
+          "ResModel", 
+          "", 
+          ""
+        ]
+      ]
+    ], 
+    [
+      "cluster-15", 
+      "lantipeptide-t1pks-bacteriocin", 
+      "scaffold_1", 
+      "3467728 - 3540952", 
+      "3", 
+      "3", 
+      [
+        [
+          "3041", 
+          "TIGR01980", 
+          3533589, 
+          3535020, 
+          "Core", 
+          "sufB: FeS assembly protein SufB", 
+          "Biosynthesis of cofactors, prosthetic groups, and carriers"
+        ], 
+        [
+          "3040", 
+          "TIGR01981", 
+          3532314, 
+          3533511, 
+          "Core", 
+          "sufD: FeS assembly protein SufD", 
+          "Biosynthesis of cofactors, prosthetic groups, and carriers"
+        ], 
+        [
+          "3036", 
+          "TIGR01994", 
+          3529391, 
+          3529868, 
+          "Core", 
+          "SUF_scaf_2: SUF system FeS assembly protein, NifU family", 
+          "Biosynthesis of cofactors, prosthetic groups, and carriers"
+        ], 
+        [
+          "3029", 
+          "RF0007", 
+          "3522301", 
+          "3524278", 
+          "ResModel", 
+          "", 
+          ""
+        ], 
+        [
+          "3022", 
+          "RF0173", 
+          "3516644", 
+          "3517571", 
+          "ResModel", 
+          "", 
+          ""
+        ], 
+        [
+          "3013", 
+          "RF0174", 
+          "3494093", 
+          "3494951", 
+          "ResModel", 
+          "", 
+          ""
+        ]
+      ]
+    ], 
+    [
+      "cluster-12", 
+      "t1pks", 
+      "scaffold_1", 
+      "3011961 - 3057733", 
+      "0", 
+      "0", 
+      []
+    ], 
+    [
+      "cluster-13", 
+      "nrps", 
+      "scaffold_1", 
+      "3045528 - 3092736", 
+      "0", 
+      "0", 
+      []
+    ], 
+    [
+      "cluster-10", 
+      "siderophore", 
+      "scaffold_1", 
+      "2861870 - 2873661", 
+      "1", 
+      "0", 
+      [
+        [
+          "2509", 
+          "TIGR01764", 
+          2863730, 
+          2864156, 
+          "Core", 
+          "excise: DNA binding domain, excisionase family", 
+          "Unknown function"
+        ]
+      ]
+    ], 
+    [
+      "cluster-11", 
+      "nrps-t1pks", 
+      "scaffold_1", 
+      "2940958 - 3018546", 
+      "0", 
+      "1", 
+      [
+        [
+          "2622", 
+          "RF0168", 
+          "2992171", 
+          "2993305", 
+          "ResModel", 
+          "", 
+          ""
+        ]
+      ]
+    ], 
+    [
+      "cluster-4", 
+      "fused", 
+      "scaffold_1", 
+      "1957836 - 1980841", 
+      "1", 
+      "0", 
+      [
+        [
+          "1694", 
+          "TIGR01967", 
+          1961501, 
+          1965521, 
+          "Core", 
+          "DEAH_box_HrpA: RNA helicase HrpA", 
+          "Unknown function"
+        ]
+      ]
+    ], 
+    [
+      "cluster-5", 
+      "t2pks", 
+      "scaffold_1", 
+      "2495820 - 2538375", 
+      "4", 
+      "2", 
+      [
+        [
+          "2213", 
+          "TIGR03688", 
+          2535740, 
+          2537258, 
+          "Core", 
+          "pupylate_PafA2: proteasome accessory factor PafA2", 
+          "Protein fate"
+        ], 
+        [
+          "2212", 
+          "TIGR03689", 
+          2533810, 
+          2535592, 
+          "Core", 
+          "pup_AAA: proteasome ATPase", 
+          "Protein fate"
+        ], 
+        [
+          "2215", 
+          "TIGR03690", 
+          2537592, 
+          2538567, 
+          "Core", 
+          "20S_bact_beta: proteasome, beta subunit", 
+          "Protein fate"
+        ], 
+        [
+          "2214", 
+          "TIGR03687", 
+          2537287, 
+          2537578, 
+          "Core", 
+          "pupylate_cterm: ubiquitin-like protein Pup", 
+          "Protein fate"
+        ], 
+        [
+          "2180", 
+          "RF0007", 
+          "2499842", 
+          "2501612", 
+          "ResModel", 
+          "", 
+          ""
+        ], 
+        [
+          "2215", 
+          "PF00227.21", 
+          "2537592", 
+          "2538567", 
+          "ResModel", 
+          "", 
+          ""
+        ]
+      ]
+    ], 
+    [
+      "cluster-6", 
+      "bacteriocin", 
+      "scaffold_1", 
+      "2580350 - 2592255", 
+      "1", 
+      "0", 
+      [
+        [
+          "2266", 
+          "TIGR01695", 
+          2590338, 
+          2591940, 
+          "Core", 
+          "murJ_mviN: murein biosynthesis integral membrane protein MurJ", 
+          "Cell envelope"
+        ]
+      ]
+    ], 
+    [
+      "cluster-7", 
+      "amglyccycl", 
+      "scaffold_1", 
+      "2630088 - 2651255", 
+      "1", 
+      "0", 
+      [
+        [
+          "2307", 
+          "TIGR00203", 
+          2632064, 
+          2633063, 
+          "Core", 
+          "cydB: cytochrome d ubiquinol oxidase, subunit II", 
+          "Energy metabolism"
+        ]
+      ]
+    ], 
+    [
+      "cluster-1", 
+      "t1pks", 
+      "scaffold_1", 
+      "653312 - 699168", 
+      "0", 
+      "0", 
+      []
+    ], 
+    [
+      "cluster-2", 
+      "nrps", 
+      "scaffold_1", 
+      "732579 - 796151", 
+      "1", 
+      "0", 
+      [
+        [
+          "697", 
+          "TIGR01496", 
+          789022, 
+          789892, 
+          "Core", 
+          "DHPS: dihydropteroate synthase", 
+          "Biosynthesis of cofactors, prosthetic groups, and carriers"
+        ]
+      ]
+    ], 
+    [
+      "cluster-3", 
+      "transatpks-nrps-t1pks", 
+      "scaffold_1", 
+      "1131284 - 1181131", 
+      "2", 
+      "1", 
+      [
+        [
+          "1008", 
+          "TIGR03690", 
+          1144504, 
+          1145353, 
+          "Core", 
+          "20S_bact_beta: proteasome, beta subunit", 
+          "Protein fate"
+        ], 
+        [
+          "1010", 
+          "TIGR01751", 
+          1147559, 
+          1148942, 
+          "Core", 
+          "crot-CoA-red: crotonyl-CoA carboxylase/reductase", 
+          "Unclassified"
+        ], 
+        [
+          "1008", 
+          "PF00227.21", 
+          "1144504", 
+          "1145353", 
+          "ResModel", 
+          "", 
+          ""
+        ]
+      ]
+    ], 
+    [
+      "cluster-8", 
+      "terpene-thiopeptide-lantipeptide", 
+      "scaffold_1", 
+      "2694283 - 2748469", 
+      "0", 
+      "0", 
+      []
+    ], 
+    [
+      "cluster-9", 
+      "t2pks", 
+      "scaffold_1", 
+      "2788927 - 2831443", 
+      "0", 
+      "3", 
+      [
+        [
+          "2476", 
+          "RF0168", 
+          "2818321", 
+          "2819674", 
+          "ResModel", 
+          "", 
+          ""
+        ], 
+        [
+          "2471", 
+          "PF00364.17", 
+          "2814061", 
+          "2814640", 
+          "ResModel", 
+          "", 
+          ""
+        ], 
+        [
+          "2472", 
+          "PF03255.9", 
+          "2814636", 
+          "2816337", 
+          "ResModel", 
+          "", 
+          ""
+        ]
+      ]
+    ]
+  ], 
+  "cluster-18": {
+    "hits": [
+      [
+        "4371", 
+        "RF0168", 
+        "5007275", 
+        "5008637", 
+        "ResModel", 
+        "", 
+        ""
+      ]
+    ], 
+    "row": [
+      "cluster-18", 
+      "nrps", 
+      "scaffold_1", 
+      "4978726 - 5033814"
+    ]
+  }, 
+  "cluster-19": {
+    "hits": [], 
+    "row": [
+      "cluster-19", 
+      "terpene", 
+      "scaffold_1", 
+      "5025450 - 5046389"
+    ]
+  }, 
+  "cluster-16": {
+    "hits": [], 
+    "row": [
+      "cluster-16", 
+      "butyrolactone", 
+      "scaffold_1", 
+      "4719612 - 4730572"
+    ]
+  }, 
+  "cluster-17": {
+    "hits": [
+      [
+        "4229", 
+        "TIGR00499", 
+        4845768, 
+        4847277, 
+        "Core", 
+        "lysS_bact: lysine--tRNA ligase", 
+        "Protein synthesis"
+      ], 
+      [
+        "4221", 
+        "TIGR00416", 
+        4836440, 
+        4837886, 
+        "Core", 
+        "sms: DNA repair protein RadA", 
+        "DNA metabolism"
+      ], 
+      [
+        "4235", 
+        "TIGR00018", 
+        4852500, 
+        4853349, 
+        "Core", 
+        "panC: pantoate--beta-alanine ligase", 
+        "Biosynthesis of cofactors, prosthetic groups, and carriers"
+      ], 
+      [
+        "4234", 
+        "TIGR00223", 
+        4852048, 
+        4852477, 
+        "Core", 
+        "panD: aspartate 1-decarboxylase", 
+        "Biosynthesis of cofactors, prosthetic groups, and carriers"
+      ], 
+      [
+        "4231", 
+        "TIGR00078", 
+        4848277, 
+        4849174, 
+        "Core", 
+        "nadC: nicotinate-nucleotide diphosphorylase (carboxylating)", 
+        "Biosynthesis of cofactors, prosthetic groups, and carriers"
+      ], 
+      [
+        "4212", 
+        "TIGR00151", 
+        4828764, 
+        4829250, 
+        "Core", 
+        "ispF: 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase", 
+        "Biosynthesis of cofactors, prosthetic groups, and carriers"
+      ]
+    ], 
+    "row": [
+      "cluster-17", 
+      "t3pks", 
+      "scaffold_1", 
+      "4811592 - 4852699"
+    ]
+  }, 
+  "cluster-14": {
+    "hits": [
+      [
+        "2770", 
+        "RF0174", 
+        "3211651", 
+        "3212479", 
+        "ResModel", 
+        "", 
+        ""
+      ], 
+      [
+        "2727", 
+        "PF01039.17", 
+        "3113279", 
+        "3114719", 
+        "ResModel", 
+        "", 
+        ""
+      ]
+    ], 
+    "row": [
+      "cluster-14", 
+      "t1pks-nrps-arylpolyene", 
+      "scaffold_1", 
+      "3097969 - 3269216"
+    ]
+  }, 
+  "cluster-15": {
+    "hits": [
+      [
+        "3041", 
+        "TIGR01980", 
+        3533589, 
+        3535020, 
+        "Core", 
+        "sufB: FeS assembly protein SufB", 
+        "Biosynthesis of cofactors, prosthetic groups, and carriers"
+      ], 
+      [
+        "3040", 
+        "TIGR01981", 
+        3532314, 
+        3533511, 
+        "Core", 
+        "sufD: FeS assembly protein SufD", 
+        "Biosynthesis of cofactors, prosthetic groups, and carriers"
+      ], 
+      [
+        "3036", 
+        "TIGR01994", 
+        3529391, 
+        3529868, 
+        "Core", 
+        "SUF_scaf_2: SUF system FeS assembly protein, NifU family", 
+        "Biosynthesis of cofactors, prosthetic groups, and carriers"
+      ], 
+      [
+        "3029", 
+        "RF0007", 
+        "3522301", 
+        "3524278", 
+        "ResModel", 
+        "", 
+        ""
+      ], 
+      [
+        "3022", 
+        "RF0173", 
+        "3516644", 
+        "3517571", 
+        "ResModel", 
+        "", 
+        ""
+      ], 
+      [
+        "3013", 
+        "RF0174", 
+        "3494093", 
+        "3494951", 
+        "ResModel", 
+        "", 
+        ""
+      ]
+    ], 
+    "row": [
+      "cluster-15", 
+      "lantipeptide-t1pks-bacteriocin", 
+      "scaffold_1", 
+      "3467728 - 3540952"
+    ]
+  }, 
+  "cluster-12": {
+    "hits": [], 
+    "row": [
+      "cluster-12", 
+      "t1pks", 
+      "scaffold_1", 
+      "3011961 - 3057733"
+    ]
+  }, 
+  "cluster-13": {
+    "hits": [], 
+    "row": [
+      "cluster-13", 
+      "nrps", 
+      "scaffold_1", 
+      "3045528 - 3092736"
+    ]
+  }, 
+  "cluster-10": {
+    "hits": [
+      [
+        "2509", 
+        "TIGR01764", 
+        2863730, 
+        2864156, 
+        "Core", 
+        "excise: DNA binding domain, excisionase family", 
+        "Unknown function"
+      ]
+    ], 
+    "row": [
+      "cluster-10", 
+      "siderophore", 
+      "scaffold_1", 
+      "2861870 - 2873661"
+    ]
+  }, 
+  "cluster-11": {
+    "hits": [
+      [
+        "2622", 
+        "RF0168", 
+        "2992171", 
+        "2993305", 
+        "ResModel", 
+        "", 
+        ""
+      ]
+    ], 
+    "row": [
+      "cluster-11", 
+      "nrps-t1pks", 
+      "scaffold_1", 
+      "2940958 - 3018546"
+    ]
+  }, 
+  "cluster-4": {
+    "hits": [
+      [
+        "1694", 
+        "TIGR01967", 
+        1961501, 
+        1965521, 
+        "Core", 
+        "DEAH_box_HrpA: RNA helicase HrpA", 
+        "Unknown function"
+      ]
+    ], 
+    "row": [
+      "cluster-4", 
+      "fused", 
+      "scaffold_1", 
+      "1957836 - 1980841"
+    ]
+  }, 
+  "cluster-5": {
+    "hits": [
+      [
+        "2213", 
+        "TIGR03688", 
+        2535740, 
+        2537258, 
+        "Core", 
+        "pupylate_PafA2: proteasome accessory factor PafA2", 
+        "Protein fate"
+      ], 
+      [
+        "2212", 
+        "TIGR03689", 
+        2533810, 
+        2535592, 
+        "Core", 
+        "pup_AAA: proteasome ATPase", 
+        "Protein fate"
+      ], 
+      [
+        "2215", 
+        "TIGR03690", 
+        2537592, 
+        2538567, 
+        "Core", 
+        "20S_bact_beta: proteasome, beta subunit", 
+        "Protein fate"
+      ], 
+      [
+        "2214", 
+        "TIGR03687", 
+        2537287, 
+        2537578, 
+        "Core", 
+        "pupylate_cterm: ubiquitin-like protein Pup", 
+        "Protein fate"
+      ], 
+      [
+        "2180", 
+        "RF0007", 
+        "2499842", 
+        "2501612", 
+        "ResModel", 
+        "", 
+        ""
+      ], 
+      [
+        "2215", 
+        "PF00227.21", 
+        "2537592", 
+        "2538567", 
+        "ResModel", 
+        "", 
+        ""
+      ]
+    ], 
+    "row": [
+      "cluster-5", 
+      "t2pks", 
+      "scaffold_1", 
+      "2495820 - 2538375"
+    ]
+  }, 
+  "cluster-6": {
+    "hits": [
+      [
+        "2266", 
+        "TIGR01695", 
+        2590338, 
+        2591940, 
+        "Core", 
+        "murJ_mviN: murein biosynthesis integral membrane protein MurJ", 
+        "Cell envelope"
+      ]
+    ], 
+    "row": [
+      "cluster-6", 
+      "bacteriocin", 
+      "scaffold_1", 
+      "2580350 - 2592255"
+    ]
+  }, 
+  "cluster-7": {
+    "hits": [
+      [
+        "2307", 
+        "TIGR00203", 
+        2632064, 
+        2633063, 
+        "Core", 
+        "cydB: cytochrome d ubiquinol oxidase, subunit II", 
+        "Energy metabolism"
+      ]
+    ], 
+    "row": [
+      "cluster-7", 
+      "amglyccycl", 
+      "scaffold_1", 
+      "2630088 - 2651255"
+    ]
+  }, 
+  "cluster-1": {
+    "hits": [], 
+    "row": [
+      "cluster-1", 
+      "t1pks", 
+      "scaffold_1", 
+      "653312 - 699168"
+    ]
+  }, 
+  "cluster-2": {
+    "hits": [
+      [
+        "697", 
+        "TIGR01496", 
+        789022, 
+        789892, 
+        "Core", 
+        "DHPS: dihydropteroate synthase", 
+        "Biosynthesis of cofactors, prosthetic groups, and carriers"
+      ]
+    ], 
+    "row": [
+      "cluster-2", 
+      "nrps", 
+      "scaffold_1", 
+      "732579 - 796151"
+    ]
+  }, 
+  "cluster-3": {
+    "hits": [
+      [
+        "1008", 
+        "TIGR03690", 
+        1144504, 
+        1145353, 
+        "Core", 
+        "20S_bact_beta: proteasome, beta subunit", 
+        "Protein fate"
+      ], 
+      [
+        "1010", 
+        "TIGR01751", 
+        1147559, 
+        1148942, 
+        "Core", 
+        "crot-CoA-red: crotonyl-CoA carboxylase/reductase", 
+        "Unclassified"
+      ], 
+      [
+        "1008", 
+        "PF00227.21", 
+        "1144504", 
+        "1145353", 
+        "ResModel", 
+        "", 
+        ""
+      ]
+    ], 
+    "row": [
+      "cluster-3", 
+      "transatpks-nrps-t1pks", 
+      "scaffold_1", 
+      "1131284 - 1181131"
+    ]
+  }, 
+  "cluster-8": {
+    "hits": [], 
+    "row": [
+      "cluster-8", 
+      "terpene-thiopeptide-lantipeptide", 
+      "scaffold_1", 
+      "2694283 - 2748469"
+    ]
+  }, 
+  "cluster-9": {
+    "hits": [
+      [
+        "2476", 
+        "RF0168", 
+        "2818321", 
+        "2819674", 
+        "ResModel", 
+        "", 
+        ""
+      ], 
+      [
+        "2471", 
+        "PF00364.17", 
+        "2814061", 
+        "2814640", 
+        "ResModel", 
+        "", 
+        ""
+      ], 
+      [
+        "2472", 
+        "PF03255.9", 
+        "2814636", 
+        "2816337", 
+        "ResModel", 
+        "", 
+        ""
+      ]
+    ], 
+    "row": [
+      "cluster-9", 
+      "t2pks", 
+      "scaffold_1", 
+      "2788927 - 2831443"
+    ]
+  }
+}

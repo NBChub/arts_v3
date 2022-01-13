@@ -1,0 +1,1442 @@
+{
+  "1003195_Streptomyces_cattleya_NRRL_8057": [
+    [
+      "TIGR02348", 
+      "3795", 
+      "1003195_Streptomyces_cattleya_NRRL_8057", 
+      "D", 
+      "Salinispora_tropica_CNB_440", 
+      "Salinispora_tropica_CNB_440, 1003195_Streptomyces_cattleya_NRRL_8057", 
+      2.817888309494651
+    ]
+  ], 
+  "SP142": [
+    [
+      "TIGR00157", 
+      "4146", 
+      "SP142", 
+      "D", 
+      "Salinispora_tropica_CNB_440", 
+      "Salinispora_tropica_CNB_440, 290399_Arthrobacter_sp_FB24", 
+      2.817888309494651
+    ]
+  ], 
+  "1200352_Corynebacterium_terpenotabidum_Y_11": [
+    [
+      "Cpn10", 
+      "281", 
+      "1200352_Corynebacterium_terpenotabidum_Y_11", 
+      "D", 
+      "Salinispora_tropica_CNB_440", 
+      "Salinispora_tropica_CNB_440, 1200352_Corynebacterium_terpenotabidum_Y_11", 
+      2.9944023749138964
+    ]
+  ], 
+  "656024_Frankia_symbiont_of_Datisca_glomerata": [
+    [
+      "TIGR00418", 
+      "836", 
+      "656024_Frankia_symbiont_of_Datisca_glomerata", 
+      "D", 
+      "Salinispora_tropica_CNB_440", 
+      "Salinispora_tropica_CNB_440, 656024_Frankia_symbiont_of_Datisca_glomerata", 
+      3.0882592960335717
+    ]
+  ], 
+  "700508_Mycobacterium_neoaurum_VKM_Ac_1815D": [
+    [
+      "TIGR01031", 
+      "4113", 
+      "700508_Mycobacterium_neoaurum_VKM_Ac_1815D", 
+      "R", 
+      "Salinispora_tropica_CNB_440", 
+      "Salinispora_tropica_CNB_440, 700508_Mycobacterium_neoaurum_VKM_Ac_1815D", 
+      2.9944023749138964
+    ]
+  ], 
+  "469383_Conexibacter_woesei_DSM_14684": [
+    [
+      "TIGR00409", 
+      "1774", 
+      "469383_Conexibacter_woesei_DSM_14684", 
+      "D", 
+      "Salinispora_tropica_CNB_440", 
+      "469383_Conexibacter_woesei_DSM_14684, Salinispora_tropica_CNB_440", 
+      0.5
+    ]
+  ], 
+  "SP43": [
+    [
+      "TIGR01049", 
+      "3878", 
+      "SP43", 
+      "R", 
+      "SP45", 
+      "Salinispora_tropica_CNB_440, 134676_Actinoplanes_sp_SE50", 
+      5.789998584065451
+    ]
+  ], 
+  "SP68": [
+    [
+      "TIGR01017", 
+      "4321", 
+      "SP68", 
+      "D", 
+      "Salinispora_tropica_CNB_440", 
+      "269800_Thermobifida_fusca_YX, 266940_Kineococcus_radiotolerans_SRS30216", 
+      2.868431278559135
+    ]
+  ], 
+  "SP45": [
+    [
+      "TIGR00105", 
+      "3600", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00077", 
+      "3157", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR03817", 
+      "3987", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR01534", 
+      "3056", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00154", 
+      "778", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR03156", 
+      "1433", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR01632", 
+      "3891", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00362", 
+      "1", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "Salinispora_tropica_CNB_440, 644283_Micromonospora_aurantiaca_ATCC_27029", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR01356", 
+      "2945", 
+      "SP45", 
+      "R", 
+      "SP89", 
+      "208439_Amycolatopsis_japonica, Salinispora_tropica_CNB_440", 
+      2.9944023749138964
+    ], 
+    [
+      "TIGR00065", 
+      "3165", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR01049", 
+      "3878", 
+      "SP45", 
+      "D", 
+      "SP43", 
+      "Salinispora_tropica_CNB_440, 134676_Actinoplanes_sp_SE50", 
+      5.789998584065451
+    ], 
+    [
+      "TIGR00337", 
+      "1903", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR03450", 
+      "4515", 
+      "SP45", 
+      "D", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR01023", 
+      "3896", 
+      "SP45", 
+      "R", 
+      "649831_Actinoplanes_sp_N902_109", 
+      "649831_Actinoplanes_sp_N902_109, Salinispora_tropica_CNB_440", 
+      5.789998584065451
+    ], 
+    [
+      "TIGR00962", 
+      "3587", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00174", 
+      "1429", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "RNA_16S_rRNA", 
+      "184", 
+      "SP45", 
+      "D", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00878", 
+      "155", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR02159", 
+      "4024", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR03688", 
+      "2213", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00355", 
+      "3761", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00018", 
+      "4235", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR02191", 
+      "1275", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00218", 
+      "959", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR01125", 
+      "1381", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00496", 
+      "1313", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR01071", 
+      "3858", 
+      "SP45", 
+      "D", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00720", 
+      "433", 
+      "SP45", 
+      "D", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00196", 
+      "3812", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR01067", 
+      "3867", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00109", 
+      "2981", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00500", 
+      "1347", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00486", 
+      "3311", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR03953", 
+      "3876", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR01393", 
+      "3414", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR03705", 
+      "1250", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR01164", 
+      "3870", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR03689", 
+      "2212", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR03447", 
+      "2140", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00877", 
+      "134", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00612", 
+      "1337", 
+      "SP45", 
+      "R", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ]
+  ], 
+  "446470_Stackebrandtia_nassauensis_DSM_44728": [
+    [
+      "TIGR01430", 
+      "810", 
+      "446470_Stackebrandtia_nassauensis_DSM_44728", 
+      "D", 
+      "Salinispora_tropica_CNB_440", 
+      "Salinispora_tropica_CNB_440, 446470_Stackebrandtia_nassauensis_DSM_44728", 
+      3.9639729526452063
+    ], 
+    [
+      "TIGR01072", 
+      "3262", 
+      "446470_Stackebrandtia_nassauensis_DSM_44728", 
+      "D", 
+      "Salinispora_tropica_CNB_440", 
+      "Salinispora_tropica_CNB_440, 446470_Stackebrandtia_nassauensis_DSM_44728", 
+      3.9639729526452063
+    ], 
+    [
+      "TIGR00057", 
+      "3596", 
+      "446470_Stackebrandtia_nassauensis_DSM_44728", 
+      "D", 
+      "Salinispora_tropica_CNB_440", 
+      "Salinispora_tropica_CNB_440, 446470_Stackebrandtia_nassauensis_DSM_44728", 
+      3.9639729526452063
+    ]
+  ], 
+  "SP42": [
+    [
+      "TIGR00009", 
+      "1265", 
+      "SP42", 
+      "D", 
+      "Salinispora_tropica_CNB_440", 
+      "Salinispora_tropica_CNB_440, 134676_Actinoplanes_sp_SE50", 
+      5.789998584065451
+    ]
+  ], 
+  "278137_Mycobacterium_gilvum_Spyr1": [
+    [
+      "TIGR01031", 
+      "4113", 
+      "278137_Mycobacterium_gilvum_Spyr1", 
+      "D", 
+      "Salinispora_tropica_CNB_440", 
+      "278137_Mycobacterium_gilvum_Spyr1, 700508_Mycobacterium_neoaurum_VKM_Ac_1815D", 
+      7.862202586519305
+    ]
+  ], 
+  "479435_Kribbella_flavida_DSM_17836": [
+    [
+      "TIGR00057", 
+      "2436", 
+      "479435_Kribbella_flavida_DSM_17836", 
+      "D", 
+      "Salinispora_tropica_CNB_440", 
+      "Salinispora_tropica_CNB_440, 479435_Kribbella_flavida_DSM_17836", 
+      2.817888309494651
+    ]
+  ], 
+  "288705_Renibacterium_salmoninarum_ATCC_33209": [
+    [
+      "TIGR00500", 
+      "3728", 
+      "288705_Renibacterium_salmoninarum_ATCC_33209", 
+      "R", 
+      "Salinispora_tropica_CNB_440", 
+      "288705_Renibacterium_salmoninarum_ATCC_33209, 145458_Rathayibacter_toxicus", 
+      4.0719146244994775
+    ]
+  ], 
+  "649831_Actinoplanes_sp_N902_109": [
+    [
+      "TIGR00685", 
+      "859", 
+      "649831_Actinoplanes_sp_N902_109", 
+      "D", 
+      "Salinispora_tropica_CNB_440", 
+      "Salinispora_tropica_CNB_440, 649831_Actinoplanes_sp_N902_109", 
+      5.789998584065451
+    ], 
+    [
+      "TIGR01023", 
+      "3896", 
+      "649831_Actinoplanes_sp_N902_109", 
+      "D", 
+      "SP45", 
+      "649831_Actinoplanes_sp_N902_109, Salinispora_tropica_CNB_440", 
+      5.789998584065451
+    ]
+  ], 
+  "SP53": [
+    [
+      "TIGR00653", 
+      "3294", 
+      "SP53", 
+      "D", 
+      "Salinispora_tropica_CNB_440", 
+      "Salinispora_tropica_CNB_440, 42256_Rubrobacter_radiotolerans", 
+      0.5
+    ], 
+    [
+      "TIGR00105", 
+      "2819", 
+      "SP53", 
+      "D", 
+      "Salinispora_tropica_CNB_440", 
+      "Salinispora_tropica_CNB_440, 266117_Rubrobacter_xylanophilus_DSM_9941", 
+      0.5
+    ]
+  ], 
+  "SP130": [
+    [
+      "TIGR00500", 
+      "3728", 
+      "SP130", 
+      "R", 
+      "Salinispora_tropica_CNB_440", 
+      "Salinispora_tropica_CNB_440, 145458_Rathayibacter_toxicus", 
+      2.817888309494651
+    ]
+  ], 
+  "408015_Streptomyces_xiamenensis": [
+    [
+      "TIGR01496", 
+      "697", 
+      "408015_Streptomyces_xiamenensis", 
+      "D", 
+      "Salinispora_tropica_CNB_440", 
+      "Salinispora_tropica_CNB_440, 408015_Streptomyces_xiamenensis", 
+      2.817888309494651
+    ]
+  ], 
+  "SP150": [
+    [
+      "TIGR01017", 
+      "4321", 
+      "SP150", 
+      "R", 
+      "Salinispora_tropica_CNB_440", 
+      "452652_Kitasatospora_setae_KM_6054, 266940_Kineococcus_radiotolerans_SRS30216", 
+      2.868431278559135
+    ]
+  ], 
+  "SP88": [
+    [
+      "TIGR03920", 
+      "1423", 
+      "SP88", 
+      "D", 
+      "Salinispora_tropica_CNB_440", 
+      "1003195_Streptomyces_cattleya_NRRL_8057, Salinispora_tropica_CNB_440", 
+      2.817888309494651
+    ]
+  ], 
+  "SP89": [
+    [
+      "TIGR01356", 
+      "2945", 
+      "SP89", 
+      "D", 
+      "SP45", 
+      "208439_Amycolatopsis_japonica, Salinispora_tropica_CNB_440", 
+      2.9944023749138964
+    ]
+  ], 
+  "644283_Micromonospora_aurantiaca_ATCC_27029": [
+    [
+      "TIGR00105", 
+      "3600", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00077", 
+      "3157", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR03817", 
+      "3987", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR01534", 
+      "3056", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00154", 
+      "778", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR03156", 
+      "1433", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR01632", 
+      "3891", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00362", 
+      "1", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "Salinispora_tropica_CNB_440, 644283_Micromonospora_aurantiaca_ATCC_27029", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00065", 
+      "3165", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00337", 
+      "1903", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR03450", 
+      "4515", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "R", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00962", 
+      "3587", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00174", 
+      "1429", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "RNA_16S_rRNA", 
+      "184", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "R", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00878", 
+      "155", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR02159", 
+      "4024", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR03688", 
+      "2213", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00355", 
+      "3761", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00018", 
+      "4235", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR02191", 
+      "1275", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00218", 
+      "959", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR01125", 
+      "1381", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00496", 
+      "1313", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR01071", 
+      "3858", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "R", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00720", 
+      "433", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "R", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00196", 
+      "3812", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR01067", 
+      "3867", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00109", 
+      "2981", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00500", 
+      "1347", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00486", 
+      "3311", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR03953", 
+      "3876", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR01393", 
+      "3414", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR03705", 
+      "1250", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR01164", 
+      "3870", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR03689", 
+      "2212", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR03447", 
+      "2140", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00877", 
+      "134", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ], 
+    [
+      "TIGR00612", 
+      "1337", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029", 
+      "D", 
+      "SP45", 
+      "644283_Micromonospora_aurantiaca_ATCC_27029, Salinispora_tropica_CNB_440", 
+      7.268224334287484
+    ]
+  ], 
+  "SP71": [
+    [
+      "TIGR02227", 
+      "1299", 
+      "SP71", 
+      "D", 
+      "Salinispora_tropica_CNB_440", 
+      "Salinispora_tropica_CNB_440, 1246995_Actinoplanes_friuliensis_DSM_7358", 
+      5.789998584065451
+    ], 
+    [
+      "TIGR00500", 
+      "3728", 
+      "SP71", 
+      "D", 
+      "Salinispora_tropica_CNB_440", 
+      "1205910_Nocardiopsis_alba_ATCC_BAA_2165, 145458_Rathayibacter_toxicus", 
+      2.868431278559135
+    ]
+  ], 
+  "452652_Kitasatospora_setae_KM_6054": [
+    [
+      "TIGR01017", 
+      "4321", 
+      "452652_Kitasatospora_setae_KM_6054", 
+      "R", 
+      "Salinispora_tropica_CNB_440", 
+      "452652_Kitasatospora_setae_KM_6054, 362257_Streptomyces_vietnamensis", 
+      5.28866111954275
+    ]
+  ], 
+  "SP77": [
+    [
+      "TIGR01017", 
+      "4321", 
+      "SP77", 
+      "R", 
+      "Salinispora_tropica_CNB_440", 
+      "Salinispora_tropica_CNB_440, 362257_Streptomyces_vietnamensis", 
+      2.817888309494651
+    ]
+  ], 
+  "Salinispora_tropica_CNB_440": [
+    [
+      "TIGR01430", 
+      "810", 
+      "Salinispora_tropica_CNB_440", 
+      "R", 
+      "446470_Stackebrandtia_nassauensis_DSM_44728", 
+      "Salinispora_tropica_CNB_440, 446470_Stackebrandtia_nassauensis_DSM_44728", 
+      3.9639729526452063
+    ], 
+    [
+      "TIGR03690", 
+      "1008", 
+      "Salinispora_tropica_CNB_440", 
+      "R", 
+      "SP31", 
+      "Salinispora_tropica_CNB_440, 1179773_Saccharothrix_espanaensis_DSM_44229", 
+      2.9944023749138964
+    ], 
+    [
+      "TIGR03920", 
+      "1423", 
+      "Salinispora_tropica_CNB_440", 
+      "R", 
+      "SP88", 
+      "1003195_Streptomyces_cattleya_NRRL_8057, Salinispora_tropica_CNB_440", 
+      2.817888309494651
+    ], 
+    [
+      "TIGR00079", 
+      "2326", 
+      "Salinispora_tropica_CNB_440", 
+      "R", 
+      "SP124", 
+      "Salinispora_tropica_CNB_440, 710685_Mycobacterium_rhodesiae_NBB3", 
+      2.9944023749138964
+    ], 
+    [
+      "TIGR01017", 
+      "4321", 
+      "Salinispora_tropica_CNB_440", 
+      "D", 
+      "SP77", 
+      "Salinispora_tropica_CNB_440, 362257_Streptomyces_vietnamensis", 
+      2.817888309494651
+    ], 
+    [
+      "TIGR01017", 
+      "4321", 
+      "Salinispora_tropica_CNB_440", 
+      "D", 
+      "452652_Kitasatospora_setae_KM_6054", 
+      "452652_Kitasatospora_setae_KM_6054, 362257_Streptomyces_vietnamensis", 
+      5.28866111954275
+    ], 
+    [
+      "TIGR01017", 
+      "4321", 
+      "Salinispora_tropica_CNB_440", 
+      "D", 
+      "SP150", 
+      "452652_Kitasatospora_setae_KM_6054, 266940_Kineococcus_radiotolerans_SRS30216", 
+      2.868431278559135
+    ], 
+    [
+      "TIGR01017", 
+      "4321", 
+      "Salinispora_tropica_CNB_440", 
+      "R", 
+      "SP68", 
+      "269800_Thermobifida_fusca_YX, 266940_Kineococcus_radiotolerans_SRS30216", 
+      2.868431278559135
+    ], 
+    [
+      "TIGR02348", 
+      "3795", 
+      "Salinispora_tropica_CNB_440", 
+      "R", 
+      "1003195_Streptomyces_cattleya_NRRL_8057", 
+      "Salinispora_tropica_CNB_440, 1003195_Streptomyces_cattleya_NRRL_8057", 
+      2.817888309494651
+    ], 
+    [
+      "TIGR00157", 
+      "4146", 
+      "Salinispora_tropica_CNB_440", 
+      "R", 
+      "SP142", 
+      "Salinispora_tropica_CNB_440, 290399_Arthrobacter_sp_FB24", 
+      2.817888309494651
+    ], 
+    [
+      "TIGR02227", 
+      "1299", 
+      "Salinispora_tropica_CNB_440", 
+      "R", 
+      "SP71", 
+      "Salinispora_tropica_CNB_440, 1246995_Actinoplanes_friuliensis_DSM_7358", 
+      5.789998584065451
+    ], 
+    [
+      "TIGR00653", 
+      "3294", 
+      "Salinispora_tropica_CNB_440", 
+      "R", 
+      "SP53", 
+      "Salinispora_tropica_CNB_440, 42256_Rubrobacter_radiotolerans", 
+      0.5
+    ], 
+    [
+      "TIGR00500", 
+      "3855", 
+      "Salinispora_tropica_CNB_440", 
+      "R", 
+      "SP38", 
+      "Salinispora_tropica_CNB_440, 298654_Frankia_sp_EuI1c", 
+      3.0882592960335717
+    ], 
+    [
+      "TIGR00456", 
+      "3608", 
+      "Salinispora_tropica_CNB_440", 
+      "R", 
+      "SP35", 
+      "Salinispora_tropica_CNB_440, 526225_Geodermatophilus_obscurus_DSM_43160", 
+      3.0882592960335717
+    ], 
+    [
+      "TIGR00685", 
+      "859", 
+      "Salinispora_tropica_CNB_440", 
+      "R", 
+      "649831_Actinoplanes_sp_N902_109", 
+      "Salinispora_tropica_CNB_440, 649831_Actinoplanes_sp_N902_109", 
+      5.789998584065451
+    ], 
+    [
+      "TIGR00055", 
+      "858", 
+      "Salinispora_tropica_CNB_440", 
+      "R", 
+      "1205910_Nocardiopsis_alba_ATCC_BAA_2165", 
+      "Salinispora_tropica_CNB_440, 1205910_Nocardiopsis_alba_ATCC_BAA_2165", 
+      2.817888309494651
+    ], 
+    [
+      "TIGR01072", 
+      "3262", 
+      "Salinispora_tropica_CNB_440", 
+      "R", 
+      "446470_Stackebrandtia_nassauensis_DSM_44728", 
+      "Salinispora_tropica_CNB_440, 446470_Stackebrandtia_nassauensis_DSM_44728", 
+      3.9639729526452063
+    ], 
+    [
+      "TIGR00057", 
+      "3596", 
+      "Salinispora_tropica_CNB_440", 
+      "R", 
+      "446470_Stackebrandtia_nassauensis_DSM_44728", 
+      "Salinispora_tropica_CNB_440, 446470_Stackebrandtia_nassauensis_DSM_44728", 
+      3.9639729526452063
+    ], 
+    [
+      "TIGR01695", 
+      "2266", 
+      "Salinispora_tropica_CNB_440", 
+      "R", 
+      "351607_Acidothermus_cellulolyticus_11B", 
+      "351607_Acidothermus_cellulolyticus_11B, Salinispora_tropica_CNB_440", 
+      2.817888309494651
+    ], 
+    [
+      "TIGR00009", 
+      "1265", 
+      "Salinispora_tropica_CNB_440", 
+      "R", 
+      "SP42", 
+      "Salinispora_tropica_CNB_440, 134676_Actinoplanes_sp_SE50", 
+      5.789998584065451
+    ], 
+    [
+      "TIGR00105", 
+      "2819", 
+      "Salinispora_tropica_CNB_440", 
+      "R", 
+      "SP53", 
+      "Salinispora_tropica_CNB_440, 266117_Rubrobacter_xylanophilus_DSM_9941", 
+      0.5
+    ], 
+    [
+      "TIGR01496", 
+      "697", 
+      "Salinispora_tropica_CNB_440", 
+      "R", 
+      "408015_Streptomyces_xiamenensis", 
+      "Salinispora_tropica_CNB_440, 408015_Streptomyces_xiamenensis", 
+      2.817888309494651
+    ], 
+    [
+      "TIGR00500", 
+      "3728", 
+      "Salinispora_tropica_CNB_440", 
+      "D", 
+      "SP107", 
+      "Salinispora_tropica_CNB_440, 555970_Bifidobacterium_animalis_subsp_lactis_DSM_10140", 
+      2.817888309494651
+    ], 
+    [
+      "TIGR00500", 
+      "3728", 
+      "Salinispora_tropica_CNB_440", 
+      "D", 
+      "SP130", 
+      "Salinispora_tropica_CNB_440, 145458_Rathayibacter_toxicus", 
+      2.817888309494651
+    ], 
+    [
+      "TIGR00500", 
+      "3728", 
+      "Salinispora_tropica_CNB_440", 
+      "D", 
+      "288705_Renibacterium_salmoninarum_ATCC_33209", 
+      "288705_Renibacterium_salmoninarum_ATCC_33209, 145458_Rathayibacter_toxicus", 
+      4.0719146244994775
+    ], 
+    [
+      "TIGR00500", 
+      "3728", 
+      "Salinispora_tropica_CNB_440", 
+      "R", 
+      "SP71", 
+      "1205910_Nocardiopsis_alba_ATCC_BAA_2165, 145458_Rathayibacter_toxicus", 
+      2.868431278559135
+    ], 
+    [
+      "TIGR00409", 
+      "1774", 
+      "Salinispora_tropica_CNB_440", 
+      "R", 
+      "469383_Conexibacter_woesei_DSM_14684", 
+      "469383_Conexibacter_woesei_DSM_14684, Salinispora_tropica_CNB_440", 
+      0.5
+    ], 
+    [
+      "TIGR00418", 
+      "836", 
+      "Salinispora_tropica_CNB_440", 
+      "R", 
+      "656024_Frankia_symbiont_of_Datisca_glomerata", 
+      "Salinispora_tropica_CNB_440, 656024_Frankia_symbiont_of_Datisca_glomerata", 
+      3.0882592960335717
+    ], 
+    [
+      "TIGR01031", 
+      "4113", 
+      "Salinispora_tropica_CNB_440", 
+      "D", 
+      "443218_Amycolicicoccus_subflavus_DQS3_9A1", 
+      "Salinispora_tropica_CNB_440, 443218_Amycolicicoccus_subflavus_DQS3_9A1", 
+      2.9944023749138964
+    ], 
+    [
+      "TIGR01031", 
+      "4113", 
+      "Salinispora_tropica_CNB_440", 
+      "D", 
+      "640132_Segniliparus_rotundus_DSM_44985", 
+      "Salinispora_tropica_CNB_440, 640132_Segniliparus_rotundus_DSM_44985", 
+      2.9944023749138964
+    ], 
+    [
+      "TIGR01031", 
+      "4113", 
+      "Salinispora_tropica_CNB_440", 
+      "D", 
+      "700508_Mycobacterium_neoaurum_VKM_Ac_1815D", 
+      "Salinispora_tropica_CNB_440, 700508_Mycobacterium_neoaurum_VKM_Ac_1815D", 
+      2.9944023749138964
+    ], 
+    [
+      "TIGR01031", 
+      "4113", 
+      "Salinispora_tropica_CNB_440", 
+      "R", 
+      "278137_Mycobacterium_gilvum_Spyr1", 
+      "278137_Mycobacterium_gilvum_Spyr1, 700508_Mycobacterium_neoaurum_VKM_Ac_1815D", 
+      7.862202586519305
+    ], 
+    [
+      "Ribosomal_S14", 
+      "2815", 
+      "Salinispora_tropica_CNB_440", 
+      "R", 
+      "SP125", 
+      "84292_Microbacterium_chocolatum, Salinispora_tropica_CNB_440", 
+      2.817888309494651
+    ], 
+    [
+      "TIGR00057", 
+      "2436", 
+      "Salinispora_tropica_CNB_440", 
+      "R", 
+      "479435_Kribbella_flavida_DSM_17836", 
+      "Salinispora_tropica_CNB_440, 479435_Kribbella_flavida_DSM_17836", 
+      2.817888309494651
+    ], 
+    [
+      "Cpn10", 
+      "281", 
+      "Salinispora_tropica_CNB_440", 
+      "R", 
+      "1200352_Corynebacterium_terpenotabidum_Y_11", 
+      "Salinispora_tropica_CNB_440, 1200352_Corynebacterium_terpenotabidum_Y_11", 
+      2.9944023749138964
+    ]
+  ], 
+  "1205910_Nocardiopsis_alba_ATCC_BAA_2165": [
+    [
+      "TIGR00055", 
+      "858", 
+      "1205910_Nocardiopsis_alba_ATCC_BAA_2165", 
+      "D", 
+      "Salinispora_tropica_CNB_440", 
+      "Salinispora_tropica_CNB_440, 1205910_Nocardiopsis_alba_ATCC_BAA_2165", 
+      2.817888309494651
+    ]
+  ], 
+  "SP38": [
+    [
+      "TIGR00500", 
+      "3855", 
+      "SP38", 
+      "D", 
+      "Salinispora_tropica_CNB_440", 
+      "Salinispora_tropica_CNB_440, 298654_Frankia_sp_EuI1c", 
+      3.0882592960335717
+    ]
+  ], 
+  "SP35": [
+    [
+      "TIGR00456", 
+      "3608", 
+      "SP35", 
+      "D", 
+      "Salinispora_tropica_CNB_440", 
+      "Salinispora_tropica_CNB_440, 526225_Geodermatophilus_obscurus_DSM_43160", 
+      3.0882592960335717
+    ]
+  ], 
+  "443218_Amycolicicoccus_subflavus_DQS3_9A1": [
+    [
+      "TIGR01031", 
+      "4113", 
+      "443218_Amycolicicoccus_subflavus_DQS3_9A1", 
+      "R", 
+      "Salinispora_tropica_CNB_440", 
+      "Salinispora_tropica_CNB_440, 443218_Amycolicicoccus_subflavus_DQS3_9A1", 
+      2.9944023749138964
+    ]
+  ], 
+  "SP31": [
+    [
+      "TIGR03690", 
+      "1008", 
+      "SP31", 
+      "D", 
+      "Salinispora_tropica_CNB_440", 
+      "Salinispora_tropica_CNB_440, 1179773_Saccharothrix_espanaensis_DSM_44229", 
+      2.9944023749138964
+    ]
+  ], 
+  "351607_Acidothermus_cellulolyticus_11B": [
+    [
+      "TIGR01695", 
+      "2266", 
+      "351607_Acidothermus_cellulolyticus_11B", 
+      "D", 
+      "Salinispora_tropica_CNB_440", 
+      "351607_Acidothermus_cellulolyticus_11B, Salinispora_tropica_CNB_440", 
+      2.817888309494651
+    ]
+  ], 
+  "640132_Segniliparus_rotundus_DSM_44985": [
+    [
+      "TIGR01031", 
+      "4113", 
+      "640132_Segniliparus_rotundus_DSM_44985", 
+      "R", 
+      "Salinispora_tropica_CNB_440", 
+      "Salinispora_tropica_CNB_440, 640132_Segniliparus_rotundus_DSM_44985", 
+      2.9944023749138964
+    ]
+  ], 
+  "SP125": [
+    [
+      "Ribosomal_S14", 
+      "2815", 
+      "SP125", 
+      "D", 
+      "Salinispora_tropica_CNB_440", 
+      "84292_Microbacterium_chocolatum, Salinispora_tropica_CNB_440", 
+      2.817888309494651
+    ]
+  ], 
+  "SP124": [
+    [
+      "TIGR00079", 
+      "2326", 
+      "SP124", 
+      "D", 
+      "Salinispora_tropica_CNB_440", 
+      "Salinispora_tropica_CNB_440, 710685_Mycobacterium_rhodesiae_NBB3", 
+      2.9944023749138964
+    ]
+  ], 
+  "SP107": [
+    [
+      "TIGR00500", 
+      "3728", 
+      "SP107", 
+      "R", 
+      "Salinispora_tropica_CNB_440", 
+      "Salinispora_tropica_CNB_440, 555970_Bifidobacterium_animalis_subsp_lactis_DSM_10140", 
+      2.817888309494651
+    ]
+  ]
+}

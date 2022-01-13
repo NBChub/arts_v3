@@ -1,0 +1,19 @@
+version: '2'
+services:
+  artswebapp:
+    build: .
+
+#Host:docker ports
+    ports:
+     - "80:5000"
+
+#Shared Folder locations (Result folder ex: /host/results/path:/arts/results)
+    volumes:
+     - /tmp:/arts/results
+     - /tmp:/arts/upload
+     - /tmp:/arts/run
+
+  redis:
+    ports:
+     - "6379:6379"
+    image: "redis:alpine"

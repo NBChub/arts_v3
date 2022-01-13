@@ -1,0 +1,33 @@
+#Program	specific	url
+trimal	trimal	https://github.com/scapella/trimal
+raxml	raxmlHPC-SSE3	https://github.com/stamatak/standard-RAxML
+mafft	mafft	http://mafft.cbrc.jp/alignment/software/
+hmmer3.1	hmmsearch	http://hmmer.org/
+java	astral.jar	https://github.com/smirarab/ASTRAL
+rangerdtl	ranger-dtl-U	http://compbio.mit.edu/ranger-dtl/
+antismash   3.0.5   http://antismash.secondarymetabolites.org/download.html
+glimmer     glimmer3    https://ccb.jhu.edu/software/glimmer/
+
+#Other
+python-dev
+python-pip
+liblzma-dev
+libxml2-dev
+libxslt-dev
+zlib1g-dev
+libxext-dev
+#Pyqt for tree draing requires X11:
+python-qt4
+qt4-dev-tools
+#Failover for pyqt using pillow requires:
+libjpeg-dev
+libfreetype6-dev
+
+#Optional
+virtualenv
+libpcre3
+libpcre3-dev
+xvfb
+
+#Notes
+Included core model files have been processed with hmmer v3.1b2.

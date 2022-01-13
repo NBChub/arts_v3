@@ -1,0 +1,292 @@
+{
+  "hits": {
+    "TIGR00057": [
+      "Salinispora tropica CNB-440, complete genome.|-|translation factor SUA5|loc|19203 20175 1 # ID=1_16|Type=CDS|transl_table=11", 
+      "Salinispora tropica CNB-440, complete genome.|-|translation factor SUA5|loc|2777105 2777726 -1 # ID=1_2436|Type=CDS|transl_table=11", 
+      "Salinispora tropica CNB-440, complete genome.|-|translation factor SUA5|loc|4168820 4169531 -1 # ID=1_3596|Type=CDS|transl_table=11"
+    ], 
+    "TIGR02412": [
+      "Salinispora tropica CNB-440, complete genome.|-|aminopeptidase N|loc|3982541 3985055 -1 # ID=1_3427|Type=CDS|transl_table=11", 
+      "Salinispora tropica CNB-440, complete genome.|-|aminopeptidase N|loc|4034227 4036783 1 # ID=1_3472|Type=CDS|transl_table=11"
+    ], 
+    "TIGR00157": [
+      "Salinispora tropica CNB-440, complete genome.|-|GTPase EngC|loc|4262209 4263334 1 # ID=1_3674|Type=CDS|transl_table=11", 
+      "Salinispora tropica CNB-440, complete genome.|-|GTPase EngC|loc|4761127 4762180 -1 # ID=1_4146|Type=CDS|transl_table=11"
+    ], 
+    "TIGR01695": [
+      "Salinispora tropica CNB-440, complete genome.|-|integral membrane protein MviN|loc|2590338 2591940 1 # ID=1_2266|Type=CDS|transl_table=11", 
+      "Salinispora tropica CNB-440, complete genome.|-|integral membrane protein MviN|loc|5163662 5165441 1 # ID=1_4527|Type=CDS|transl_table=11"
+    ], 
+    "TIGR00685": [
+      "Salinispora tropica CNB-440, complete genome.|-|HAD-superfamily hydrolase, subfamily IIB|loc|968081 968906 -1 # ID=1_859|Type=CDS|transl_table=11", 
+      "Salinispora tropica CNB-440, complete genome.|-|HAD-superfamily hydrolase, subfamily IIB|loc|4061096 4063700 1 # ID=1_3499|Type=CDS|transl_table=11"
+    ], 
+    "TIGR00105": [
+      "Salinispora tropica CNB-440, complete genome.|-|LSU ribosomal protein L31P|loc|3272442 3272703 1 # ID=1_2819|Type=CDS|transl_table=11", 
+      "Salinispora tropica CNB-440, complete genome.|-|LSU ribosomal protein L31P|loc|4173401 4173626 -1 # ID=1_3600|Type=CDS|transl_table=11"
+    ], 
+    "TIGR01311": [
+      "Salinispora tropica CNB-440, complete genome.|-|glycerol kinase|loc|572217 573735 -1 # ID=1_497|Type=CDS|transl_table=11", 
+      "Salinispora tropica CNB-440, complete genome.|-|glycerol kinase|loc|575603 577127 1 # ID=1_500|Type=CDS|transl_table=11", 
+      "Salinispora tropica CNB-440, complete genome.|-|glycerol kinase|loc|2770526 2772044 -1 # ID=1_2430|Type=CDS|transl_table=11"
+    ], 
+    "Cpn10": [
+      "Salinispora tropica CNB-440, complete genome.|-|chaperonin Cpn10|loc|319797 320136 -1 # ID=1_281|Type=CDS|transl_table=11", 
+      "Salinispora tropica CNB-440, complete genome.|-|chaperonin Cpn10|loc|4403008 4403317 -1 # ID=1_3796|Type=CDS|transl_table=11"
+    ], 
+    "TIGR01031": [
+      "Salinispora tropica CNB-440, complete genome.|-|LSU ribosomal protein L32P|loc|1445304 1445478 1 # ID=1_1273|Type=CDS|transl_table=11", 
+      "Salinispora tropica CNB-440, complete genome.|-|ribosomal protein L32|loc|4732390 4732567 -1 # ID=1_4113|Type=CDS|transl_table=11"
+    ], 
+    "TIGR03690": [
+      "Salinispora tropica CNB-440, complete genome.|-|20S proteasome, A and B subunits|loc|1144504 1145353 1 # ID=1_1008|Type=CDS|transl_table=11", 
+      "Salinispora tropica CNB-440, complete genome.|-|20S proteasome, A and B subunits|loc|2537592 2538567 1 # ID=1_2215|Type=CDS|transl_table=11"
+    ], 
+    "TIGR02891": [
+      "Salinispora tropica CNB-440, complete genome.|-|Cytochrome-c oxidase|loc|1239716 1241651 1 # ID=1_1083|Type=CDS|transl_table=11", 
+      "Salinispora tropica CNB-440, complete genome.|-|Cytochrome-c oxidase|loc|2426081 2428079 -1 # ID=1_2115|Type=CDS|transl_table=11"
+    ], 
+    "TIGR00009": [
+      "Salinispora tropica CNB-440, complete genome.|-|LSU ribosomal protein L28P|loc|1436895 1437087 -1 # ID=1_1265|Type=CDS|transl_table=11", 
+      "Salinispora tropica CNB-440, complete genome.|-|LSU ribosomal protein L28P|loc|3270696 3270933 -1 # ID=1_2817|Type=CDS|transl_table=11"
+    ], 
+    "TIGR01356": [
+      "Salinispora tropica CNB-440, complete genome.|-|3-phosphoshikimate 1-carboxyvinyltransferase|loc|3415748 3416993 -1 # ID=1_2945|Type=CDS|transl_table=11", 
+      "Salinispora tropica CNB-440, complete genome.|-|3-phosphoshikimate 1-carboxyvinyltransferase|loc|4260938 4262240 1 # ID=1_3673|Type=CDS|transl_table=11"
+    ], 
+    "TIGR01072": [
+      "Salinispora tropica CNB-440, complete genome.|-|UDP-N-acetylglucosamine 1-carboxyvinyltransferase|loc|3791576 3793046 1 # ID=1_3262|Type=CDS|transl_table=11", 
+      "Salinispora tropica CNB-440, complete genome.|-|UDP-N-acetylglucosamine 1-carboxyvinyltransferase|loc|4153877 4155266 -1 # ID=1_3580|Type=CDS|transl_table=11"
+    ], 
+    "TIGR01017": [
+      "Salinispora tropica CNB-440, complete genome.|-|SSU ribosomal protein S4P|loc|4458295 4458922 -1 # ID=1_3850|Type=CDS|transl_table=11", 
+      "Salinispora tropica CNB-440, complete genome.|-|SSU ribosomal protein S4P|loc|4944182 4944791 1 # ID=1_4321|Type=CDS|transl_table=11"
+    ], 
+    "TIGR01023": [
+      "Salinispora tropica CNB-440, complete genome.|-|LSU ribosomal protein L33P|loc|3270529 3270697 -1 # ID=1_2816|Type=CDS|transl_table=11", 
+      "Salinispora tropica CNB-440, complete genome.|-|LSU ribosomal protein L33P|loc|4494518 4494686 -1 # ID=1_3896|Type=CDS|transl_table=11"
+    ], 
+    "TIGR01513": [
+      "Salinispora tropica CNB-440, complete genome.|-|putative nicotinate phosphoribosyltransferase|loc|1243817 1245104 -1 # ID=1_1086|Type=CDS|transl_table=11", 
+      "Salinispora tropica CNB-440, complete genome.|-|putative nicotinate phosphoribosyltransferase|loc|2778586 2779942 -1 # ID=1_2438|Type=CDS|transl_table=11"
+    ], 
+    "TIGR00418": [
+      "Salinispora tropica CNB-440, complete genome.|-|tRNA synthetase, class II (G, H, P and S)|loc|940203 941421 1 # ID=1_836|Type=CDS|transl_table=11", 
+      "Salinispora tropica CNB-440, complete genome.|-|Ser-tRNA(Thr) hydrolase / threonyl-tRNA synthetase|loc|2036971 2038987 1 # ID=1_1764|Type=CDS|transl_table=11"
+    ], 
+    "TIGR01751": [
+      "Salinispora tropica CNB-440, complete genome.|-|crotonyl-CoA reductase|loc|1147559 1148942 -1 # ID=1_1010|Type=CDS|transl_table=11", 
+      "Salinispora tropica CNB-440, complete genome.|-|crotonyl-CoA reductase|loc|4136546 4137953 1 # ID=1_3567|Type=CDS|transl_table=11"
+    ], 
+    "TIGR00456": [
+      "Salinispora tropica CNB-440, complete genome.|-|arginyl-tRNA synthetase|loc|156963 158682 1 # ID=1_146|Type=CDS|transl_table=11", 
+      "Salinispora tropica CNB-440, complete genome.|-|arginyl-tRNA synthetase|loc|4186272 4187937 -1 # ID=1_3608|Type=CDS|transl_table=11"
+    ], 
+    "Ribosomal_S14": [
+      "Salinispora tropica CNB-440, complete genome.|-|SSU ribosomal protein S14P|loc|3270222 3270528 -1 # ID=1_2815|Type=CDS|transl_table=11", 
+      "Salinispora tropica CNB-440, complete genome.|-|SSU ribosomal protein S14P|loc|4467467 4467653 -1 # ID=1_3864|Type=CDS|transl_table=11"
+    ]
+  }, 
+  "data": [
+    [
+      "TIGR00009", 
+      2.0, 
+      1.0, 
+      0.5021, 
+      0.6421, 
+      0.9895, 
+      "[Salinispora tropica CNB-440, complete genome.|-|LSU ribosomal protein L28P|loc|1436895 1437087 -1 # ID=1_1265|Type=CDS|transl_table=11; Salinispora tropica CNB-440, complete genome.|-|LSU ribosomal protein L28P|loc|3270696 3270933 -1 # ID=1_2817|Type=CDS|transl_table=11]", 
+      "L28: ribosomal protein bL28"
+    ], 
+    [
+      "TIGR01017", 
+      2.0, 
+      1.0, 
+      0.3, 
+      0.9, 
+      1.0, 
+      "[Salinispora tropica CNB-440, complete genome.|-|SSU ribosomal protein S4P|loc|4458295 4458922 -1 # ID=1_3850|Type=CDS|transl_table=11; Salinispora tropica CNB-440, complete genome.|-|SSU ribosomal protein S4P|loc|4944182 4944791 1 # ID=1_4321|Type=CDS|transl_table=11]", 
+      "rpsD_bact: ribosomal protein uS4"
+    ], 
+    [
+      "TIGR01356", 
+      2.0, 
+      1.0, 
+      0.2757, 
+      0.8737, 
+      0.9526, 
+      "[Salinispora tropica CNB-440, complete genome.|-|3-phosphoshikimate 1-carboxyvinyltransferase|loc|3415748 3416993 -1 # ID=1_2945|Type=CDS|transl_table=11; Salinispora tropica CNB-440, complete genome.|-|3-phosphoshikimate 1-carboxyvinyltransferase|loc|4260938 4262240 1 # ID=1_3673|Type=CDS|transl_table=11]", 
+      "aroA: 3-phosphoshikimate 1-carboxyvinyltransferase"
+    ], 
+    [
+      "TIGR00456", 
+      2.0, 
+      1.0, 
+      0.3021, 
+      0.8842, 
+      0.9842, 
+      "[Salinispora tropica CNB-440, complete genome.|-|arginyl-tRNA synthetase|loc|156963 158682 1 # ID=1_146|Type=CDS|transl_table=11; Salinispora tropica CNB-440, complete genome.|-|arginyl-tRNA synthetase|loc|4186272 4187937 -1 # ID=1_3608|Type=CDS|transl_table=11]", 
+      "argS: arginine--tRNA ligase"
+    ], 
+    [
+      "TIGR00157", 
+      2.0, 
+      1.0, 
+      0.529, 
+      0.5737, 
+      0.8684, 
+      "[Salinispora tropica CNB-440, complete genome.|-|GTPase EngC|loc|4262209 4263334 1 # ID=1_3674|Type=CDS|transl_table=11; Salinispora tropica CNB-440, complete genome.|-|GTPase EngC|loc|4761127 4762180 -1 # ID=1_4146|Type=CDS|transl_table=11]", 
+      "TIGR00157: ribosome small subunit-dependent GTPase A"
+    ], 
+    [
+      "TIGR01311", 
+      3.0, 
+      1.0, 
+      0.7691, 
+      0.6474, 
+      0.8684, 
+      "[Salinispora tropica CNB-440, complete genome.|-|glycerol kinase|loc|572217 573735 -1 # ID=1_497|Type=CDS|transl_table=11; Salinispora tropica CNB-440, complete genome.|-|glycerol kinase|loc|575603 577127 1 # ID=1_500|Type=CDS|transl_table=11; Salinispora tropica CNB-440, complete genome.|-|glycerol kinase|loc|2770526 2772044 -1 # ID=1_2430|Type=CDS|transl_table=11]", 
+      "glycerol_kin: glycerol kinase"
+    ], 
+    [
+      "TIGR01751", 
+      2.0, 
+      1.0, 
+      0.7221, 
+      0.2158, 
+      0.3, 
+      "[Salinispora tropica CNB-440, complete genome.|-|crotonyl-CoA reductase|loc|1147559 1148942 -1 # ID=1_1010|Type=CDS|transl_table=11; Salinispora tropica CNB-440, complete genome.|-|crotonyl-CoA reductase|loc|4136546 4137953 1 # ID=1_3567|Type=CDS|transl_table=11]", 
+      "crot-CoA-red: crotonyl-CoA carboxylase/reductase"
+    ], 
+    [
+      "TIGR00418", 
+      2.0, 
+      1.0, 
+      0.3889, 
+      0.8316, 
+      0.9947, 
+      "[Salinispora tropica CNB-440, complete genome.|-|tRNA synthetase, class II (G, H, P and S)|loc|940203 941421 1 # ID=1_836|Type=CDS|transl_table=11; Salinispora tropica CNB-440, complete genome.|-|Ser-tRNA(Thr) hydrolase / threonyl-tRNA synthetase|loc|2036971 2038987 1 # ID=1_1764|Type=CDS|transl_table=11]", 
+      "thrS: threonine--tRNA ligase"
+    ], 
+    [
+      "TIGR00057", 
+      3.0, 
+      1.0, 
+      0.6181, 
+      0.5842, 
+      0.9316, 
+      "[Salinispora tropica CNB-440, complete genome.|-|translation factor SUA5|loc|19203 20175 1 # ID=1_16|Type=CDS|transl_table=11; Salinispora tropica CNB-440, complete genome.|-|translation factor SUA5|loc|2777105 2777726 -1 # ID=1_2436|Type=CDS|transl_table=11; Salinispora tropica CNB-440, complete genome.|-|translation factor SUA5|loc|4168820 4169531 -1 # ID=1_3596|Type=CDS|transl_table=11]", 
+      "TIGR00057: tRNA threonylcarbamoyl adenosine modification protein, Sua5/YciO/YrdC/YwlC family"
+    ], 
+    [
+      "TIGR00685", 
+      2.0, 
+      1.0, 
+      0.4384, 
+      0.6737, 
+      0.7895, 
+      "[Salinispora tropica CNB-440, complete genome.|-|HAD-superfamily hydrolase, subfamily IIB|loc|968081 968906 -1 # ID=1_859|Type=CDS|transl_table=11; Salinispora tropica CNB-440, complete genome.|-|HAD-superfamily hydrolase, subfamily IIB|loc|4061096 4063700 1 # ID=1_3499|Type=CDS|transl_table=11]", 
+      "T6PP: trehalose-phosphatase"
+    ], 
+    [
+      "Cpn10", 
+      2.0, 
+      1.0, 
+      0.519, 
+      0.6211, 
+      1.0, 
+      "[Salinispora tropica CNB-440, complete genome.|-|chaperonin Cpn10|loc|319797 320136 -1 # ID=1_281|Type=CDS|transl_table=11; Salinispora tropica CNB-440, complete genome.|-|chaperonin Cpn10|loc|4403008 4403317 -1 # ID=1_3796|Type=CDS|transl_table=11]", 
+      "PF00166.17: Chaperonin 10 Kd subunit"
+    ], 
+    [
+      "Ribosomal_S14", 
+      2.0, 
+      1.0, 
+      0.5099, 
+      0.6105, 
+      0.9895, 
+      "[Salinispora tropica CNB-440, complete genome.|-|SSU ribosomal protein S14P|loc|3270222 3270528 -1 # ID=1_2815|Type=CDS|transl_table=11; Salinispora tropica CNB-440, complete genome.|-|SSU ribosomal protein S14P|loc|4467467 4467653 -1 # ID=1_3864|Type=CDS|transl_table=11]", 
+      "PF00253.17: Ribosomal protein S14p/S29e"
+    ], 
+    [
+      "TIGR01695", 
+      2.0, 
+      1.0, 
+      0.3451, 
+      0.6, 
+      0.6737, 
+      "[Salinispora tropica CNB-440, complete genome.|-|integral membrane protein MviN|loc|2590338 2591940 1 # ID=1_2266|Type=CDS|transl_table=11; Salinispora tropica CNB-440, complete genome.|-|integral membrane protein MviN|loc|5163662 5165441 1 # ID=1_4527|Type=CDS|transl_table=11]", 
+      "murJ_mviN: murein biosynthesis integral membrane protein MurJ"
+    ], 
+    [
+      "TIGR01072", 
+      2.0, 
+      1.0, 
+      0.3158, 
+      0.8316, 
+      0.9368, 
+      "[Salinispora tropica CNB-440, complete genome.|-|UDP-N-acetylglucosamine 1-carboxyvinyltransferase|loc|3791576 3793046 1 # ID=1_3262|Type=CDS|transl_table=11; Salinispora tropica CNB-440, complete genome.|-|UDP-N-acetylglucosamine 1-carboxyvinyltransferase|loc|4153877 4155266 -1 # ID=1_3580|Type=CDS|transl_table=11]", 
+      "murA: UDP-N-acetylglucosamine 1-carboxyvinyltransferase"
+    ], 
+    [
+      "TIGR01031", 
+      2.0, 
+      1.0, 
+      0.4408, 
+      0.7316, 
+      0.9579, 
+      "[Salinispora tropica CNB-440, complete genome.|-|LSU ribosomal protein L32P|loc|1445304 1445478 1 # ID=1_1273|Type=CDS|transl_table=11; Salinispora tropica CNB-440, complete genome.|-|ribosomal protein L32|loc|4732390 4732567 -1 # ID=1_4113|Type=CDS|transl_table=11]", 
+      "rpmF_bact: ribosomal protein bL32"
+    ], 
+    [
+      "TIGR00105", 
+      2.0, 
+      1.0, 
+      0.6939, 
+      0.6053, 
+      1.0, 
+      "[Salinispora tropica CNB-440, complete genome.|-|LSU ribosomal protein L31P|loc|3272442 3272703 1 # ID=1_2819|Type=CDS|transl_table=11; Salinispora tropica CNB-440, complete genome.|-|LSU ribosomal protein L31P|loc|4173401 4173626 -1 # ID=1_3600|Type=CDS|transl_table=11]", 
+      "L31: ribosomal protein bL31"
+    ], 
+    [
+      "TIGR01513", 
+      2.0, 
+      1.0, 
+      0.2556, 
+      0.9053, 
+      0.9737, 
+      "[Salinispora tropica CNB-440, complete genome.|-|putative nicotinate phosphoribosyltransferase|loc|1243817 1245104 -1 # ID=1_1086|Type=CDS|transl_table=11; Salinispora tropica CNB-440, complete genome.|-|putative nicotinate phosphoribosyltransferase|loc|2778586 2779942 -1 # ID=1_2438|Type=CDS|transl_table=11]", 
+      "NAPRTase_put: nicotinate phosphoribosyltransferase"
+    ], 
+    [
+      "TIGR02891", 
+      2.0, 
+      1.0, 
+      0.9994, 
+      0.4474, 
+      0.8474, 
+      "[Salinispora tropica CNB-440, complete genome.|-|Cytochrome-c oxidase|loc|1239716 1241651 1 # ID=1_1083|Type=CDS|transl_table=11; Salinispora tropica CNB-440, complete genome.|-|Cytochrome-c oxidase|loc|2426081 2428079 -1 # ID=1_2115|Type=CDS|transl_table=11]", 
+      "CtaD_CoxA: cytochrome c oxidase, subunit I"
+    ], 
+    [
+      "TIGR03690", 
+      2.0, 
+      1.0, 
+      0.2534, 
+      0.5684, 
+      0.6105, 
+      "[Salinispora tropica CNB-440, complete genome.|-|20S proteasome, A and B subunits|loc|1144504 1145353 1 # ID=1_1008|Type=CDS|transl_table=11; Salinispora tropica CNB-440, complete genome.|-|20S proteasome, A and B subunits|loc|2537592 2538567 1 # ID=1_2215|Type=CDS|transl_table=11]", 
+      "20S_bact_beta: proteasome, beta subunit"
+    ], 
+    [
+      "TIGR01023", 
+      2.0, 
+      1.0, 
+      0.6482, 
+      0.5737, 
+      0.9895, 
+      "[Salinispora tropica CNB-440, complete genome.|-|LSU ribosomal protein L33P|loc|3270529 3270697 -1 # ID=1_2816|Type=CDS|transl_table=11; Salinispora tropica CNB-440, complete genome.|-|LSU ribosomal protein L33P|loc|4494518 4494686 -1 # ID=1_3896|Type=CDS|transl_table=11]", 
+      "rpmG_bact: ribosomal protein bL33"
+    ]
+  ]
+}

@@ -1,0 +1,30 @@
+version: '2'
+services:
+  redis:
+    ports:
+     - "6379:6379"
+    image: "redis:alpine"
+  artsanalysis:
+    image: "ziemertlab/arts:latest"
+    volumes:
+     - ${ARTS_RESULTS}:/arts/results
+     - ${ARTS_UPLOAD}:/arts/upload
+     - ${ARTS_RUN}:/arts/run
+    environment:
+     - ARTS_CPU=${ARTS_CPU}
+    depends_on:
+     - redis
+  artswebapp:
+    image: "ziemertlab/artswebapp:latest"
+
+    #Host:docker ports
+    ports:
+     - "${ARTS_WEBPORT}:5000"
+
+    #Shared Folder locations (Result folder ex: /host/results/path:/arts/results)
+    volumes:
+     - ${ARTS_RESULTS}:/arts/results
+     - ${ARTS_UPLOAD}:/arts/upload
+     - ${ARTS_RUN}:/arts/run
+    depends_on:
+     - redis
