@@ -1,21 +1,15 @@
 name: arts
 channels:
   - conda-forge
-  - anaconda
   - defaults
   - bioconda
 dependencies:
-  # Base dependencies
-  - python = 3.8.10
+  - python==3.8
   - pip
- 
-  # Runtime dependencies
-  - matplotlib = 3.3.4
-  - antismash=6.0.1
-  - mafft = 7.487 
-  
-  # Developer dependencies
-  -
+  - matplotlib
+  - antismash==6.1.1
+  - jinja2
+  - mafft
   - pip:
     - aniso8601==9.0.1             
     - backports-lzma==0.0.14         
@@ -35,8 +29,7 @@ dependencies:
     - greenlet==1.1.1               
     - helperlibs==0.2.1        
     - itsdangerous==2.0.1            
-    - jdcal==1.4.1                 
-    - jinja2==3.0.1                 
+    - jdcal==1.4.1
     - lxml==4.6.3                 
     - markupsafe==2.0.1
     - networkx==2.6.2           

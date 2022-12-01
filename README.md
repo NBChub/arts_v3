@@ -65,18 +65,15 @@ and shutdown without removing containers from disk::
     docker-compose stop
 ```
 
-Source install on Debian 8
+Source install on Debian 8 / Ubuntu
 ---------------------------
 ARTS funcitons work under Anaconda3 (with python 3.8). So, first of all Anaconda3 should be installed.
 
 1) Clone/Download the repository (root / sudo required)
 ```bash
-    git clone https://bitbucket.org/ziemertlab/arts
+    git clone git@github.com:NBChub/arts_v3.git
 ```
-or
-```bash
-    wget https://bitbucket.org/ziemertlab/arts/get/b4789c6b3a88.zip
-```
+
 2) Install required libraries and applications (root / sudo required)
 ```bash
     cd arts
@@ -86,12 +83,22 @@ or
 
 3) Install required binaries from dependencies.txt file. Or use pre-compiled linux64bit bins (root / sudo required)
 ```bash
-    tar -xzf linux64_bins.tar.gz -C /usr/local/bin/ && hash -r
+    tar -xzf linux64_bins.tar.gz -C $CONDA_PREFIX/bin && hash -r
 ```
 
-4) Edit configuration file to define server to listen for job submissions, antismash location, and custom folder paths
+4) Install reference and astral from: https://bitbucket.org/ziemertlab/arts/get/master.tar.gz
+```bash
+wget https://bitbucket.org/ziemertlab/arts/get/master.tar.gz -nc
+tar -xvzf master.tar.gz ziemertlab-arts-b4789c6b3a88/reference
+mv ziemertlab-arts-*/reference ./
+tar -xvzf master.tar.gz ziemertlab-arts-b4789c6b3a88/astral
+mv ziemertlab-arts-*/astral ./
+rm master.tar.gz
+```
 
-5) Start the analysis daemon (see -h for options)::
+5) Edit configuration file to define server to listen for job submissions, antismash location, and custom folder paths
+
+6) Start the analysis daemon (see -h for options)::
 ```bash
     python runjobs.py -pid /tmp/runjobs.pid
 ```
